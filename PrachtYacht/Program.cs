@@ -14,6 +14,7 @@ namespace PrachtYacht
         [STAThread]
         static void Main()
         {
+            // neke bezveze
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Registration());
